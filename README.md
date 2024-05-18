@@ -4,4 +4,6 @@ We started with calling a API for a Order Details dataset from Kaggle. After ext
 
 All the parts of the project are integrated to Jupyter*both Python and MySQL), hence we have only one .ipynb file
 
+Talking about the Data, we used an Order details dataset(around 10,000 records). W
+
 
